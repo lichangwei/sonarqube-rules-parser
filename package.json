@@ -1,0 +1,17 @@
+{
+  "name": "sonarqube-rules-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "Louis <louis.li@gaiaworks.cn> (https://lichangwei.github.io/)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "clipboardy": "1.2.3",
+    "md2c": "1.1.3",
+    "request": "2.88.0",
+    "turndown": "5.0.0"
+  }
+}
