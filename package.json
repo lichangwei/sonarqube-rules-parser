@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node index.ts"
   },
-  "author": "Louis <louis.li@gaiaworks.cn> (https://lichangwei.github.io/)",
+  "author": "lichangwei <lichangwei@love.com> (https://lichangwei.github.io/)",
   "license": "UNLICENSED",
   "dependencies": {
     "clipboardy": "1.2.3",
