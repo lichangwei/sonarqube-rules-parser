@@ -5,13 +5,14 @@
         "module": "commonjs",
         "sourceMap": true,
         "declaration": true,
+        "esModuleInterop": true,
         "moduleResolution": "node",
         "experimentalDecorators": true,
         "allowSyntheticDefaultImports": true,
-        "lib": ["es7"]
+        "lib": ["es7", "dom"]
     },
     "include": [
-        "index.ts"
+        "index.js"
     ],
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
